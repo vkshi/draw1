@@ -61,13 +61,6 @@ body {
   top: 200px;
   z-index: 100;
 }
-.stem {
-	width: 50px;
-	height: 75px;
-	background-color: brown;
-	position: relative;
-	bottom: 400px;
-}
 
 .ribbon {
   width: 600px;
